@@ -1,0 +1,10 @@
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\SQLiteDemo\bin\Debug\SQLiteDemo.exe.config
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\SQLiteDemo\bin\Debug\SQLiteDemo.exe
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\SQLiteDemo\bin\Debug\SQLiteDemo.pdb
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.csprojAssemblyReference.cache
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.Properties.Resources.resources
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.csproj.GenerateResource.cache
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.exe
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.pdb
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.Form1.resources

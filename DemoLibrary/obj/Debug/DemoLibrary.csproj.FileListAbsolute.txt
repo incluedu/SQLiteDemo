@@ -1,0 +1,12 @@
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\DemoLibrary\bin\Debug\Dapper.dll
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\DemoLibrary\bin\Debug\System.Data.SQLite.dll
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\DemoLibrary\bin\Debug\Dapper.xml
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\DemoLibrary\bin\Debug\System.Data.SQLite.xml
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\DemoLibrary\bin\Debug\System.Data.SQLite.dll.config
+D:\c#\c#Projects\Sandkasten\SQLiteDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CopyComplete
